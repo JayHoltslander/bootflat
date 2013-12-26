@@ -36,7 +36,7 @@ You don't like the default values?, it's extremely easy to add or change element
 
 ## Links:
 
-+ [Bootflat compoents page](http://www.flathemes.com/docs/components.html)
++ [Bootflat components page](http://www.flathemes.com/docs/components.html)
 + [Bootflat extensions page](http://www.flathemes.com/extensions/extensions.html)
 + [Bootflat default UI page](http://www.flathemes.com/examples/default_ui.html)
 + [Bootflat square UI page](http://www.flathemes.com/examples/square_ui.html)
